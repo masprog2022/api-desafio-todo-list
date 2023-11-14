@@ -98,8 +98,4 @@ http DELETE :8080/api/v1/todos/1
 
 ```
 
-## Autor
 
-👤 **Mauro Manuel**
-
-* Github: [@masprog2022](https://github.com/masprog2022)
